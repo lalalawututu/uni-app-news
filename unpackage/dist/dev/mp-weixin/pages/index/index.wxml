@@ -1,0 +1,1 @@
+<view><view class="{{[className]}}">{{''+title+''}}</view><btn vue-id="8dd740cc-1" color="red" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l" vue-slots="{{['default']}}">点击</btn><view class="style">样式</view></view>
