@@ -1,0 +1,1 @@
+<view class="home"><navbar vue-id="dfea793c-1" bind:__l="__l"></navbar><tab vue-id="dfea793c-2" list="{{tabList}}" data-event-opts="{{[['^tab',[['tab']]]]}}" bind:tab="__e" bind:__l="__l"></tab><list-scroll vue-id="dfea793c-3" bind:__l="__l"></list-scroll></view>
